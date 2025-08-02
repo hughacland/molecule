@@ -1,4 +1,5 @@
 {
+    "name": "Molecule Tester",
     "image": "ubuntu:latest",
     
     "mounts": [
